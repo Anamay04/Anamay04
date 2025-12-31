@@ -1,3 +1,9 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anamay+Sitoke;BTech+CSE+Student;Java+%7C+Python+%7C+AI+Explorer;Learning+by+Building+Projects;Future+Software+Engineer+%F0%9F%9A%80" />
+</h1>
+
+
+
 <!-- ===================== HERO SECTION ===================== -->
 
 <h1 align="center">⚡ Anamay Sitoke ⚡</h1>
@@ -12,6 +18,21 @@
 </p>
 
 ---
+
+```bash
+anamay@github:~/profile$ who_am_i
+Computer Science Engineer (in progress)
+
+anamay@github:~/profile$ skills
+Java Python C++ Web AI Cloud
+
+anamay@github:~/profile$ mindset
+Build -> Break -> Learn -> Repeat
+
+anamay@github:~/profile$ goal
+Crack placements & build impactful software 🚀
+```
+
 
 <!-- ===================== ABOUT ME ===================== -->
 
@@ -62,7 +83,6 @@
 🚀 I enjoy **building projects more than reading theory** — learning feels real when code actually runs.
 
 ---
-
 <!-- ===================== SOCIALS ===================== -->
 
 ## 🌐 Connect With Me
@@ -89,7 +109,9 @@
 
 <!-- ===================== TECH STACK ===================== -->
 
-## 💻 Tech Arsenal
+## ⚙️ Tech Stack (Loading...)
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,php,mysql,sqlite,aws,azure,gcp,firebase,vercel,netlify,git,github&theme=dark" />
 
 ### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
